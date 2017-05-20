@@ -18,7 +18,7 @@ One ULN2803
 
 GND of Aruduino, ULN2803 and 74HC595 connect each other.
 
-if you want to understand how 74HC595 works, you can see it in link below: 
+If you want to understand how 74HC595 works, you can see it in link below: 
 https://www.youtube.com/watch?v=6fVbJbNPrEU
 
 Reference: https://github.com/thaitanloi365/LedMatrix 

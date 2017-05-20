@@ -1,5 +1,5 @@
 # LEd-Matrix-using-Arduino
-Using Arduino, Three 74HC595 and One ULN2803 to display LED Matrix and send words to display from RS232. Schematic in File "Schematic" (Using Eagle Software to open it).
+Using Arduino, Three 74HC595 and One ULN2803 to display LED Matrix and send words to display from RS232. Schematic in File "Schematic" in "LED Matrix.rar" (Using Eagle Software to open it).
 
 Arduino
 - Pin 12 connects to DS of 74HC595

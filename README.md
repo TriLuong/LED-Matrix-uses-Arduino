@@ -17,6 +17,7 @@ One ULN2803
 - 1C-8C connect to Column of LED Matrix
 
 GND of Aruduino, ULN2803 and 74HC595 connect each other.
+
 if you want to understand how 74HC595 works, you can see it in link below: 
 https://www.youtube.com/watch?v=6fVbJbNPrEU
 
